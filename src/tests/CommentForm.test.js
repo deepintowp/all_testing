@@ -18,3 +18,4 @@ test("Initial conditions", ()=>{
     fireEvent.click(checkbox)
     expect(submitButton).toBeEnabled()
 })
+
